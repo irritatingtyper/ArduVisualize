@@ -11,3 +11,6 @@ You can pick from line graphs and bar graphs to scatter graphs and area graphs. 
 # Exporting Options
 
 You have the option to export your data as a PDF (data, graph, session information, and description/s) or CSV (data only), with other options such as Notion and Google Docs currently in development.
+
+# Note
+This application is no longer in development (may be worked on in the future). Use it at your own risk.
